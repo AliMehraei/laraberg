@@ -141,7 +141,6 @@ The `options` object can contain the following optional keys:
 |**sidebar**                |Boolean      |Enables the Laraberg sidebar if `true`                                                       |
 |**prefix**                 |String       |The API prefix to use for requests (only use this if you changed the API location manually)  |
 |**laravelFilemanager**     |Bool/Object  |Enables Laravel Filemanager for fileuploads if value is truth. Can be an object that contains configuration options. See [Laravel File Manager](#laravel-file-manager).                                                                             |
-|**sidebar**                |Boolean      |Enables the Laraberg sidebar if `true`                                                       |
 |**searchCb**               |Function     |Will be called when using certain search fields within Gutenberg. See [Search Callback](#search-callback).|
 |**height**                 |String       |Sets the height of the editor. Value must be a valid css height value (e.g. '10px', '50%', '100vh').|
 |**minHeight**              |String       |Sets the minHeight of the editor. Value must be a valid css min-height value (e.g. '10px', '50%', '100vh').|
